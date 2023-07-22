@@ -45,7 +45,7 @@ https://github.com/prithviraj2002/cruv_test/assets/82358330/2808c831-2d6b-4bc8-9
 
 ## Steps to download
 
-# Android Studio
+### Android Studio
 
 To install a Flutter project from a GitHub repository in Android Studio, follow these steps:
 
@@ -89,7 +89,7 @@ To install a Flutter project from a GitHub repository in Android Studio, follow 
 
 That's it! Android Studio will compile the Flutter project and run the app on the selected emulator or device. Now you can explore and modify the Flutter project within Android Studio.
 
-# Visual Studio Code
+### Visual Studio Code
 
 Sure! Here are the steps to install a Flutter project from a GitHub repository in Visual Studio Code:
 
